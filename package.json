@@ -1,0 +1,25 @@
+{
+  "name": "trolling",
+  "version": "0.1.0",
+  "description": "node library to roll out and rollback environment changes in test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergey-shambir/trolling.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "sergey.shambir <sshambir@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergey-shambir/trolling/issues"
+  },
+  "homepage": "https://github.com/sergey-shambir/trolling#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
