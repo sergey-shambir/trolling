@@ -1,8 +1,9 @@
 {
   "name": "trolling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node library to roll out and rollback environment changes in test cases",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "mocha tests"
   },
