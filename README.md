@@ -32,6 +32,8 @@ describe('my awesome API', () => {
         rollback(async () => {
             await client.deleteArticle(articleId);
         });
+
+        // ...assert with 'chai' and do other stuff
     }));
 });
 
